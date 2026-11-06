@@ -4,8 +4,8 @@ export const projects: Project[] = [
   {
     slug: "sound-ethics",
     title: "Sound Ethics",
-    subtitle: "Audio wellness app",
-    description: "A personalized audio-wellness app designed for focus and relaxation through customizable soundscapes. Features intuitive sound-mixing interfaces prototyped in Figma with generative AI and curated audio integration.",
+    subtitle: "Audio wellness app (In Progress)",
+    description: "Currently designing and developing a personalized audio-wellness app to support focus and relaxation through customizable soundscapes. Created interactive Figma mockups and functional prototypes exploring intuitive sound-mixing interfaces, with ongoing work integrating generative AI and curated audio.",
     thumbnail: "/images/sound-ethics-1.jpg",
     images: [
       "/images/sound-ethics-1.jpg",
@@ -14,12 +14,6 @@ export const projects: Project[] = [
     ],
     role: "UI/UX Designer & Developer",
     tools: ["Figma", "UX Research", "Interaction Design", "Generative AI"],
-    links: [
-      {
-        label: "View Project",
-        url: ""
-      }
-    ]
   },
   {
     slug: "cki-at-uci",
@@ -45,21 +39,20 @@ export const projects: Project[] = [
     slug: "webreg-redesign",
     title: "WebReg",
     subtitle: "Course registration redesign",
-    description: "A human-centered redesign of UC Irvine's course registration system to simplify navigation and schedule planning. Created personas, journey maps, interactive Figma prototypes, and a WCAG-compliant design system evaluated through usability testing.",
+    description: "A human-centered figma redesign of UC Irvine's course registration system to simplify navigation and schedule planning. Created personas, journey maps, interactive prototypes, and a WCAG-compliant design system evaluated through usability testing.",
     thumbnail: "/images/webreg-1.jpg",
     images: [
       "/images/webreg-1.jpg",
       "/images/webreg-2.jpg",
-      "/images/webreg-3.jpg"
+      "/images/webreg-3.jpg",
+      "/images/webreg-4.jpg",
+      "/images/webreg-5.jpg",
+      "/images/webreg-6.jpg",
+      "/images/webreg-7.jpg",
+      "/images/webreg-8.jpg"
     ],
     role: "UI/UX Designer",
-    tools: ["Figma", "User Research", "Usability Testing", "Design Systems"],
-    links: [
-      {
-        label: "View Project",
-        url: ""
-      }
-    ]
+    tools: ["Figma", "User Research", "Usability Testing", "Design Systems"]
   },
   {
     slug: "shift-change",
