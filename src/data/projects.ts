@@ -40,7 +40,7 @@ export const projects: Project[] = [
     title: "WebReg Figma redesign",
     subtitle: "Course registration website redesign",
     description: "A human-centered figma redesign of UC Irvine's course registration system to simplify navigation and schedule planning. Created personas, journey maps, interactive prototypes, and a WCAG-compliant design system evaluated through usability testing.",
-    thumbnail: "/images/webreg-1.jpg",
+    thumbnail: "/images/webreg.jpg",
     images: [
       "/images/webreg-1.jpg",
       "/images/webreg-2.jpg",
