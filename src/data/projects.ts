@@ -6,7 +6,7 @@ export const projects: Project[] = [
     title: "Attune",
     subtitle: "Audio wellness app (In Progress)",
     description: "Currently designing and developing a personalized audio-wellness app in collaboration with Sound Ethics to support focus and relaxation through customizable soundscapes. Created interactive Figma mockups and functional prototypes exploring intuitive sound-mixing interfaces, with ongoing work integrating generative AI and curated audio.",
-    thumbnail: "/images/sound-ethics-1.jpg",
+    thumbnail: "/images/sound-ethics.jpg",
     images: [
       "/images/sound-ethics-1.jpg",
       "/images/sound-ethics-2.jpg",
@@ -20,7 +20,7 @@ export const projects: Project[] = [
     title: "CKI at UCI website redesign",
     subtitle: "Website redesign",
     description: "A website redesign for Circle K International at UC Irvine. Redesigned 8 pages in Figma and engineered 20+ reusable UI components in Angular, Node.js, and Express with an emphasis on accessibility and member retention.",
-    thumbnail: "/images/cki-uci-1.jpg",
+    thumbnail: "/images/cki-uci.jpg",
     images: [
       "/images/cki-uci-1.jpg",
       "/images/cki-uci-2.jpg",
